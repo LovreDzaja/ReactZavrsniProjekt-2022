@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Before running the project please install following via command prompt, since project used sass instead of css:
+
+### `npm i sass`
+
+once it is installed run next command: 
+
 ### `npm start`
 
 Runs the app in the development mode.\
